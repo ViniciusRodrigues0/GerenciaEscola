@@ -1,0 +1,68 @@
+.fa{
+    text-align: center;
+    background-color: rgb(250, 182, 126);
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    width: 340px;
+    border-radius: 10px;
+    border: rgb(129, 80, 7) solid 3px;
+    opacity: 0.9;
+
+}
+
+body{
+    background-image: url(imagem/sala.jpg);
+}
+
+#falta1{
+    border-radius: 30px;
+}
+
+#falta2{
+    border-radius: 30px;
+}
+
+#falta3{
+    border-radius: 30px;
+}
+
+#falta4{
+    border-radius: 30px;
+}
+
+#falta5{
+    border-radius: 30px;
+}
+
+#media1{
+    border-radius: 30px;
+}
+
+#media2{
+    border-radius: 30px;
+}
+
+#media3{
+    border-radius: 30px;
+}
+
+#media4{
+    border-radius: 30px;
+}
+
+#media5{
+    border-radius: 30px;
+}
+
+#me{
+    border-radius: 10px;
+}
+
+#falta{
+    border-radius: 10px;
+}
+
+#media{
+    border-radius: 10px;
+}
